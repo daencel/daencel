@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋🏾, I'm
-  Daniel Lechner
+  Daniel Di Bella
 </h1>
 <p align="center">
   <img src="https://badges.pufler.dev/repos/DanielLechner">
