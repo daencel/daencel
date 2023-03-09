@@ -2,16 +2,14 @@
   Hi 👋🏾, I'm
   Daniel Di Bella
 </h1>
-<p align="center">
-  <img src="https://badges.pufler.dev/repos/daencel">
-  <img src="https://badges.pufler.dev/visits/dancel/daencel">
-</p>
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=daencel&show_icons=true&theme=dracula&locale=en" alt="daencel" />
-</p>
 
 <hr>
 
+<p align="center" >
+  <img src="https://streak-stats.demolab.com?user=daencel&theme=darcula&border_radius=20" alt="daencel" /
+</p>
+
+<hr>
 
 - 🔭 I’m currently working on [FaceScan](https://github.com/daencel/FaceScan)
 
