@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on [FaceScan](https://github.com/daencel/FaceScan)
 
-- 📫 How to reach me **daniel.lechner2@icloud.com**
-
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
