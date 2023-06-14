@@ -11,7 +11,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on [FaceScan](https://github.com/daencel/FaceScan)
+- 🔭 I’m currently working on [Map Generation](https://github.com/chriswithf/Map_Generation)
 
 <hr>
 
