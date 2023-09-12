@@ -5,12 +5,6 @@
 
 <hr>
 
-<p align="center" >
-  <img src="https://streak-stats.demolab.com?user=daencel&theme=darcula&border_radius=20" alt="daencel" /
-</p>
-
-<hr>
-
 - 🔭 I’m currently working on [Map Generation](https://github.com/chriswithf/Map_Generation)
 
 <hr>
