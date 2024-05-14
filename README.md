@@ -1,5 +1,4 @@
 # Hello and Welcome 👋🏾
-<hr>
 My name is Daniel, I am an italian 🇮🇹 computer science undergraduate 🧑🏽‍🎓 and tech enthusiast 👨🏽‍💻
 
 ### 🔭 currently working on:
