@@ -3,7 +3,6 @@ My name is Daniel, I am an italian 🇮🇹 computer science undergraduate 🧑�
 
 ### currently working on 🔭
 -  [Nizer](https://apps.apple.com/it/app/nizer-make-it-happen/id1573795118)
--  [Spot Finder](https://apps.apple.com/it/app/spot-finder-high-adventures/id6473753383)
 -  [Map Generation](https://github.com/chriswithf/Map_Generation)
 
 <hr>
