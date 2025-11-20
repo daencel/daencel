@@ -3,8 +3,12 @@
 My name is Daniel. I am from South Tyrol and I am an undergraduate Computer Science student at the Free University of Bozen-Bolzano (unibz). I am currently specializing in Intelligent Systems
 
 ### currently working on 🔭
--  [Nizer](https://apps.apple.com/it/app/nizer-make-it-happen/id1573795118)
--  [Map Generation](https://github.com/chriswithf/Map_Generation)
+-  **[Nizer](https://apps.apple.com/it/app/nizer-make-it-happen/id1573795118):** An iOS app for creating, organizing, and discovering events with friends — including scheduling, location selection, and a shared event feed.
+-  **[Usability Study In Unmanned Aircraft Systems](https://github.com/daencel/Usability-Study-In-Unmanned-Aircraft-Systems):** My bachelor thesis — a usability study focused on human-drone interaction, examining how users interface with unmanned aircraft systems.
+
+### previous projects 💼
+- **[Face Scan](https://github.com/daencel/FaceScan):** My high school final project at the Technologische Fachoberschule “Max Valier” — a facial recognition system using computer vision.
+- **[Map Generation](https://github.com/chriswithf/Map_Generation):** A project from my Bachelor’s “Programming Project” course — procedural generation of maps and landscapes.
 
 <hr>
 
