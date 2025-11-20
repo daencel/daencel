@@ -1,6 +1,6 @@
 # Hello and Welcome 👋🏾
 
-My name is Daniel. I am from South Tyrol and I am an undergraduate Computer Science student at the Free University of Bozen-Bolzano (unibz). I am currently specializing in Intelligent Systems
+My name is Daniel. I am from South Tyrol (a bilingual German-Italian region) and currently pursuing a Bachelor in Computer Science at the Free University of Bozen-Bolzano (unibz). I specialize in Intelligent Systems and speak German 🇩🇪, Italian 🇮🇹, and English 🇬🇧.
 
 ### currently working on 🔭
 -  **[Nizer](https://apps.apple.com/it/app/nizer-make-it-happen/id1573795118):** An iOS app for creating, organizing, and discovering events with friends — including scheduling, location selection, and a shared event feed.
