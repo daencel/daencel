@@ -1,5 +1,6 @@
 # Hello and Welcome 👋🏾
-My name is Daniel, I am an italian 🇮🇹 computer science undergraduate 🧑🏽‍🎓 and tech enthusiast 👨🏽‍💻
+
+My name is Daniel. I am from South Tyrol and I am an undergraduate Computer Science student at the Free University of Bozen-Bolzano (unibz). I am currently specializing in Intelligent Systems
 
 ### currently working on 🔭
 -  [Nizer](https://apps.apple.com/it/app/nizer-make-it-happen/id1573795118)
